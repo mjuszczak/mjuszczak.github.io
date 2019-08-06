@@ -22,6 +22,7 @@ url: "https://atopia.net" # the base hostname & protocol for your site, e.g. htt
 twitter_username: mjuszczak
 github_username: mjuszczak
 minimal_mistakes_skin: default
+title_separator: "|"
 search: true
 
 # Build settings
