@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mjuszczak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.atopia.net
+  * I am mjuszczak (https://keybase.io/mjuszczak) on keybase.
+  * I have a public key with fingerprint B8C0 CB75 5045 A210 C8CC  73A1 14F3 6AF6 A14D F20C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010168b96f0a6cd2c8140026079f90057a5a6cdc569a600de8a52cfcdf15230271290a",
+            "fingerprint": "b8c0cb755045a210c8cc73a114f36af6a14df20c",
+            "host": "keybase.io",
+            "key_id": "14f36af6a14df20c",
+            "kid": "010168b96f0a6cd2c8140026079f90057a5a6cdc569a600de8a52cfcdf15230271290a",
+            "uid": "11954727cabde671de1257739f680d19",
+            "username": "mjuszczak"
+        },
+        "service": {
+            "hostname": "www.atopia.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1493257424,
+    "expire_in": 157680000,
+    "prev": "e8e9c46d0ce2ade67590347604f0c237136b87506f062511670924d67b74dcef",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.68
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJJaBRBFJ1xd0xQMW5gYmiUuMSkqrq7anrQKB4MguLFNWgm1dXVYyfa
+PXb3JNFRBBfcySmQSBAjBMSg5uIe3IgLGlxGDagoQQ+Kiruiwa066s2jdSnq1Xvv
+v//5Hdl9Q5FwzofKz83z32eFr19oTIWWhefdSku6Y6yVYmmpivdefJXBPT9eZRlS
+TAIQQBzVNWwCipmBWBQqACAMiGZqAKiEqgHOVKxRDIDBo1RFzGSGCVUkA0Qg0gCV
+CiXTshPcTbqW7QtbPcoA04mqAkWlCAIWZYzIFELFlDE1MYWKYSLAhHCl4wUKEU6n
+Hi+yHIGJR7w33j/4/zl36ncdqKkKQYRR3eCYQINDpBIiayaOAgNqAdHjrk1Xc8Fe
+XZny1rF1tEraUCgJuNpiPJhs0MofSk1NTRH1naRFi2zuC3nSdXyHOavE30rfT8YC
+qb822cvlevyPS1y3bENMUgiquetZji3FoGAy3wpsoaLJIpeClEKJ1yYtl8etgKES
+EVOcoAyvFpY8yjWmYAMwjmjQkaoBWSEYKCZgSCZQxnqUqECMDyMVQkyAhhQDE50o
+BuOmFPS1xnakGBExaUJYelbCpn7K5dKGi+eX9wuFI6EB/fsEGxaKDB72d+8aEgN/
+bsybPLIs3L3gUuvUr+05p98+/Dwpd3p3ptSzWmaAj6h2p/v+QOXpQaNLrtW6VZvS
+jZMPp1rqW0se3lm4YvrhzM629JUzX05k+o3ZmD/Nvjnh3MXHi9Qn+cXzn/WcGvHy
+Kvk2qnwpbo60fkLbZ0/sHBl7Tn/Mmzl+fVt90/dDd8vlsTmN2ce7KvP2GAfPXLib
+NaZkfzHZ0ZPXlPWofdfmI6/m1jUU5DdtKrg9uOxsR+adXdf2NNT9eIr19V7JwoLy
+k0sqEu2lXUsPeW1HGxa/aU4/ebSorOLLuNyevbdir19nmFf7fd+WIaPsyJTcBxMW
+D5+THnpszbZzHbvrt764jO9vnnUje+DMzl83AkF/
+=+xiF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mjuszczak
+
+==================================================================
