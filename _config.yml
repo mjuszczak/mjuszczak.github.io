@@ -16,7 +16,7 @@
 title: Matt Juszczak
 email: matt@atopia.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Business builder and technology innovator in the software and fitness industries.
+  Business builder and technologist in the software and fitness industries.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://atopia.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mjuszczak
@@ -59,7 +59,7 @@ include:
 author:
   name   : "Matt Juszczak"
   avatar : "/assets/images/matt.png"
-  bio    : "Business builder and technology innovator in the software and fitness industries."
+  bio    : "Business builder and technologist in the software and fitness industries."
   links:
     - label: "Bitlancer"
       icon: "fas fa-fw fa-link"
