@@ -7,7 +7,7 @@ if [ $? -eq 127 ]; then
 fi
 
 fail=0
-directories="./_posts"
+directories="./_posts ./_pages"
 
 echo "Annoying characters to fix:"
 pcregrep -ir --color='auto' -n '[^\x00-\x7F]' ${directories}
