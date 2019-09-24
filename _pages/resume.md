@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 
-## Matt Juszczak | matt@atopia.net | (908) 229-9024
+***Matt Juszczak | matt@atopia.net | (908) 229-9024***
 
 ## SUMMARY
 
