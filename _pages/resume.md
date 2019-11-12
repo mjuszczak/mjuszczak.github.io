@@ -7,7 +7,7 @@ Matt Juszczak / matt@atopia.net / (908) 229-9024
 
 ## SUMMARY
 
-Business builder and technologist in the software and fitness industries. Founder and technical lead at the DevOps consulting company Bitlancer, the MINDBODY solution provider O2M, and Turnstyle indoor cycling studios. I'm also a student pilot and co-founder of Spread Aviation, an aviation safety education platform. I love creating products and services that solve real problems and actually help people - that's the driving force behind all my ventures.
+Business builder and technologist in the software, cloud and fitness industries. Founder and technical lead at the DevOps consulting company Bitlancer, the MINDBODY solution provider O2M, and Turnstyle indoor cycling studios. I'm also a student pilot and co-founder of Spread Aviation, an aviation safety education platform. I love creating products and services that solve real problems and actually help people - that's the driving force behind all my ventures.
 
 ## KEY SKILLS
 
