@@ -59,7 +59,7 @@ include:
 author:
   name   : "Matt Juszczak"
   avatar : "/assets/images/matt.png"
-  bio    : "Business builder and technologist in the software and fitness industries."
+  bio    : "Business builder and technologist in the software, cloud services and fitness industries."
   links:
     - label: "Bitlancer"
       icon: "fas fa-fw fa-link"
