@@ -59,7 +59,7 @@ Founded O2M to productize and monetize extensions to the MINDBODY fitness and we
 
 Co-founded Turnstyle as a single indoor cycling studio and helped grow the business to five locations around the Boston area. Successfully leverage email marketing and software development skills to automate client communications and drive revenue. Manage our customer service staff. Have also taught indoor cycling classes since 2014.
 
-### WAMAJU LLC (e2009 to 2010)
+### WAMAJU LLC (2009 to 2010)
 
 **Co-Founder**
 
